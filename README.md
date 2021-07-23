@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martín David Roldán</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
-
-- 🔭 I’m currently working on [Lucmania](https://github.com/mxrold/lucmania)
+<h3 align="center">A passionate frontend developer from Argentina</h3
 
 - 🌱 I’m currently learning **Web development**
 
