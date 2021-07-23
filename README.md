@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Martín David Roldán</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3
 
-- 🌱 I’m currently learning **Web development**
+🌱 I’m currently learning **Web development**
 
-- 👨‍💻 All of my projects are available at [https://mxrold.web.app](https://mxrold.web.app)
+👨‍💻 All of my projects are available at [https://mxrold.web.app](https://mxrold.web.app)
 
-- 📫 How to reach me **martin.davrold@gmail.com**
+📫 How to reach me **martin.davrold@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
